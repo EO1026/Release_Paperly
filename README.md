@@ -86,3 +86,8 @@ Paperly comes from over a decade of journaling.
 
 It’s not designed for “perfect writing”.  
 It’s designed for real life — messy, visual, emotional, and worth remembering.
+
+## Installation Note
+
+Paperly is currently distributed as an independent macOS app.  
+Because it is not installed from the App Store, macOS may show a security prompt the first time you open it. You can open it by right-clicking the app and selecting Open.
