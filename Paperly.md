@@ -2,7 +2,6 @@
 
 A journaling space where your memories feel alive.
 
----
 
 ## Why Paperly
 
@@ -15,10 +14,13 @@ It’s built for people who want their journal to feel:
 - visual, not just text
 - personal, not generic
 - something you want to come back to
+- reflective, with AI summaries of your months and years
 
 Write your thoughts, add photos, layer details, and turn everyday moments into pages that actually feel like memories.
 
----
+## Demo
+[Watch full video](https://github.com/user-attachments/assets/dad4f09a-8218-4cb1-8be8-7ee884676705)
+
 
 ## What You Can Do
 
@@ -45,8 +47,6 @@ Choose your background:
 
 Make it subtle or visible depending on your style.
 
----
-
 ## Revisit Your Life
 
 Paperly isn’t just about writing — it’s about looking back.
@@ -62,10 +62,13 @@ Reflect on patterns across weeks, months, or years.
 
 ### 🤖 AI Q&A
 Connect your own API and explore your journal like a conversation.
-
 Ask questions. Discover patterns. Surface memories.
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86fcdfbc-12d7-430f-b72a-1f96cfc9ee70" width="45%" />
+  <img src="https://github.com/user-attachments/assets/513afb98-be11-4b57-b2cd-34b87262f87f" width="45%" />
+</p>
+
 
 ## Your Data, Your Control
 
@@ -76,7 +79,6 @@ Ask questions. Discover patterns. Surface memories.
 
 Your journal stays yours.
 
----
 
 ## Built from Real Use
 
